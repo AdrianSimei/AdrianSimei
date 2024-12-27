@@ -12,7 +12,7 @@ I am a software engineering student and an enthusiastic developer passionate abo
 - 👯 I’m looking forward to collaborating on projects that make a positive impact.
 - ✔ Ask me about anything; I’m happy to help!
 - Outside tech, 💜 I enjoy reading about social issues, 🎮 playing video games, and learning about new cultures.
-- 📫 Reach out to me at: <a href="simed41@gmail.com">adrian.simei.contact@gmail.com</a>
+- 📫 Reach out to me at: <a href="simed41@gmail.com">simed41@gmail.com</a>
 
 ## My Skills Include
 
